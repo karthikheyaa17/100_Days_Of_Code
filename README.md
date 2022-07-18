@@ -1,2 +1,2 @@
-# 100_Days_Of_Code
+# Python Bootcamp
 Python and some beginner projects
